@@ -15,6 +15,8 @@
 		E36B8A542154797D008B2C73 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E36B8A532154797D008B2C73 /* main.m */; };
 		E36B8A5D21548373008B2C73 /* bi_loading@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E36B8A5B21548373008B2C73 /* bi_loading@2x.png */; };
 		E36B8A5E21548373008B2C73 /* bi_loading@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E36B8A5C21548373008B2C73 /* bi_loading@3x.png */; };
+		E36B8A6221548837008B2C73 /* ViewController2.m in Sources */ = {isa = PBXBuildFile; fileRef = E36B8A6021548837008B2C73 /* ViewController2.m */; };
+		E36B8A6321548837008B2C73 /* ViewController2.xib in Resources */ = {isa = PBXBuildFile; fileRef = E36B8A6121548837008B2C73 /* ViewController2.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +32,9 @@
 		E36B8A532154797D008B2C73 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E36B8A5B21548373008B2C73 /* bi_loading@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bi_loading@2x.png"; sourceTree = "<group>"; };
 		E36B8A5C21548373008B2C73 /* bi_loading@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bi_loading@3x.png"; sourceTree = "<group>"; };
+		E36B8A5F21548837008B2C73 /* ViewController2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController2.h; sourceTree = "<group>"; };
+		E36B8A6021548837008B2C73 /* ViewController2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController2.m; sourceTree = "<group>"; };
+		E36B8A6121548837008B2C73 /* ViewController2.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ViewController2.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +77,9 @@
 				E36B8A4F2154797D008B2C73 /* LaunchScreen.storyboard */,
 				E36B8A522154797D008B2C73 /* Info.plist */,
 				E36B8A532154797D008B2C73 /* main.m */,
+				E36B8A5F21548837008B2C73 /* ViewController2.h */,
+				E36B8A6021548837008B2C73 /* ViewController2.m */,
+				E36B8A6121548837008B2C73 /* ViewController2.xib */,
 			);
 			path = tesGit;
 			sourceTree = "<group>";
@@ -145,6 +153,7 @@
 				E36B8A512154797D008B2C73 /* LaunchScreen.storyboard in Resources */,
 				E36B8A4E2154797D008B2C73 /* Assets.xcassets in Resources */,
 				E36B8A5D21548373008B2C73 /* bi_loading@2x.png in Resources */,
+				E36B8A6321548837008B2C73 /* ViewController2.xib in Resources */,
 				E36B8A5E21548373008B2C73 /* bi_loading@3x.png in Resources */,
 				E36B8A4C2154797C008B2C73 /* Main.storyboard in Resources */,
 			);
@@ -158,6 +167,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E36B8A492154797C008B2C73 /* ViewController.m in Sources */,
+				E36B8A6221548837008B2C73 /* ViewController2.m in Sources */,
 				E36B8A542154797D008B2C73 /* main.m in Sources */,
 				E36B8A462154797C008B2C73 /* AppDelegate.m in Sources */,
 			);
