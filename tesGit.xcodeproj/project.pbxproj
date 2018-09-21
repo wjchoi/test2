@@ -13,6 +13,8 @@
 		E36B8A4E2154797D008B2C73 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E36B8A4D2154797D008B2C73 /* Assets.xcassets */; };
 		E36B8A512154797D008B2C73 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E36B8A4F2154797D008B2C73 /* LaunchScreen.storyboard */; };
 		E36B8A542154797D008B2C73 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E36B8A532154797D008B2C73 /* main.m */; };
+		E36B8A5D21548373008B2C73 /* bi_loading@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E36B8A5B21548373008B2C73 /* bi_loading@2x.png */; };
+		E36B8A5E21548373008B2C73 /* bi_loading@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = E36B8A5C21548373008B2C73 /* bi_loading@3x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		E36B8A502154797D008B2C73 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E36B8A522154797D008B2C73 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E36B8A532154797D008B2C73 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		E36B8A5B21548373008B2C73 /* bi_loading@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bi_loading@2x.png"; sourceTree = "<group>"; };
+		E36B8A5C21548373008B2C73 /* bi_loading@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "bi_loading@3x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +62,7 @@
 		E36B8A432154797C008B2C73 /* tesGit */ = {
 			isa = PBXGroup;
 			children = (
+				E36B8A5A21548373008B2C73 /* New01 */,
 				E36B8A442154797C008B2C73 /* AppDelegate.h */,
 				E36B8A452154797C008B2C73 /* AppDelegate.m */,
 				E36B8A472154797C008B2C73 /* ViewController.h */,
@@ -69,6 +74,15 @@
 				E36B8A532154797D008B2C73 /* main.m */,
 			);
 			path = tesGit;
+			sourceTree = "<group>";
+		};
+		E36B8A5A21548373008B2C73 /* New01 */ = {
+			isa = PBXGroup;
+			children = (
+				E36B8A5B21548373008B2C73 /* bi_loading@2x.png */,
+				E36B8A5C21548373008B2C73 /* bi_loading@3x.png */,
+			);
+			path = New01;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -130,6 +144,8 @@
 			files = (
 				E36B8A512154797D008B2C73 /* LaunchScreen.storyboard in Resources */,
 				E36B8A4E2154797D008B2C73 /* Assets.xcassets in Resources */,
+				E36B8A5D21548373008B2C73 /* bi_loading@2x.png in Resources */,
+				E36B8A5E21548373008B2C73 /* bi_loading@3x.png in Resources */,
 				E36B8A4C2154797C008B2C73 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
